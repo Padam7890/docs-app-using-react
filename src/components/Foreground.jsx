@@ -33,7 +33,6 @@ const Foreground = () => {
     } else {
       alert("Save Previous one or to Add Another");
     }
-  };
 
   return (
     <>
